@@ -17,6 +17,6 @@
     "neek": "^1.1.2",
     "nodemailer": "^6.4.2",
     "plain-text-data-to-json": "^1.0.3",
-    "pug": "2.0.0-beta11"
+    "pug": "3.0.1"
   }
 }
