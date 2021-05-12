@@ -15,7 +15,7 @@
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
     "neek": "^1.1.2",
-    "nodemailer": "^6.4.2",
+    "nodemailer": "^6.4.16",
     "plain-text-data-to-json": "^1.0.3",
     "pug": "2.0.0-beta11"
   }
