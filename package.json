@@ -11,7 +11,7 @@
     "email-check": "^1.1.0",
     "email-deep-validator": "^3.3.0",
     "email-verify": "^0.2.1",
-    "express": "~4.16.1",
+    "express": "~4.17.3",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
     "neek": "^1.1.2",
